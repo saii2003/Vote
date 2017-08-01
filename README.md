@@ -1,6 +1,6 @@
 # Vote目錄檔案說明
 
-![index text](https://saii2003.github.io/Introduction/intro_forum/image/1.jpg)
+![index text](https://saii2003.github.io/Introduction/intro_vote/image/1.jpg)
 
 <pre><code>### 使用技術</code></pre>
 - 後端技術：ASP.NET C#
